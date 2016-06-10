@@ -1,7 +1,7 @@
 ---
 description: 'By Greg Cross, April 2016'
-dateModified: '2016-06-10T00:52:37.140Z'
-datePublished: '2016-06-10T00:53:09.474Z'
+dateModified: '2016-06-10T00:53:58.584Z'
+datePublished: '2016-06-10T00:53:58.745Z'
 title: Technology as a Platform
 author: []
 sourcePath: _posts/2016-06-10-technology-as-a-platform.md
